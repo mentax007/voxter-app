@@ -62,6 +62,7 @@
       {"name": "License & Terms", "url": "https://github.com/raintank/voxter-app/blob/master/LICENSE"}
     ],
     "screenshots": [
+      {"name": "Dashboard", "path": "img/voxter-dashboard.png"}
     ],
     "version": "0.0.1",
     "updated": "2016-06-29"
