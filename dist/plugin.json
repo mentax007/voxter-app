@@ -1,6 +1,6 @@
 {
   "type": "app",
-  "name": "Voxter metrics for Grafana",
+  "name": "Voxter VoIP Platform Metrics",
   "id": "voxter-app",
 
   "staticRoot": ".",
@@ -71,8 +71,8 @@
   "includes": [
     {
       "type": "dashboard",
-      "name": "Voxter Piston",
-      "path": "dashboards/voxter-piston.json",
+      "name": "Voxter Account Statistics",
+      "path": "dashboards/voxter-account-statistics.json",
       "addToNav": true
     }
   ],
