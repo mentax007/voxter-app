@@ -54,7 +54,7 @@
     },
     "keywords": ["voxter", "voip"],
     "logos": {
-      "small": "img/voxter_logo.png",
+      "small": "img/voxter_logo_small.png",
       "large": "img/voxter_logo.png"
     },
     "links": [
